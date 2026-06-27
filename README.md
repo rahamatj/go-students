@@ -1,5 +1,5 @@
 # CLI student management system
 
 - Install go
-- cd <project-folder>
+- cd project-folder
 - go run .
